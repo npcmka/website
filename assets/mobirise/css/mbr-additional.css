@@ -1091,6 +1091,9 @@ a {
 .cid-tRqkmmlVTc img,
 .cid-tRqkmmlVTc .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-tRqkmmlVTc .item:focus,
 .cid-tRqkmmlVTc span:focus {
@@ -1130,8 +1133,8 @@ a {
   color: #ffffff;
 }
 .cid-tRqkmmlVTc .item-title {
-  text-align: left;
-  color: #ff7300;
+  text-align: center;
+  color: #de5307;
 }
 .cid-tRqkmmlVTc .item-subtitle {
   text-align: left;
