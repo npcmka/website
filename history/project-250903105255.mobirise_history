@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MKA",
-    "currentPage": "index.html",
+    "currentPage": "News.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -83,7 +83,7 @@
     "publishChangesOnly": true,
     "usedWebp": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "file:///C:/Users/lepunova/Documents/GitHub/1"
   },
   "pages": {
     "index.html": {
